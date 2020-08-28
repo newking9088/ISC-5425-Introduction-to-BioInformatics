@@ -5,23 +5,23 @@ This course on bioinformatics provides a quantitative framework for understandin
 
 Possible Topics:
 
-Data generationHybrid 
-EnrichmentRNA-SeqHigh-Throughput SequencingData file formatsQuality 
-ControlSequence 
-Assembly
+> Data generationHybrid 
+> EnrichmentRNA-SeqHigh-Throughput SequencingData file formatsQuality 
+> ControlSequence 
+> Assembly
     Reference
     DeNovo
     Quasi-De Novo
-Allele Phasing
-Reading Frame Prediction
-Orthology
-Sequence Alignment
+> Allele Phasing
+> Reading Frame Prediction
+> Orthology
+> Sequence Alignment
 	Pairwise
 	Multiple 
 	Sequence
-Models of DNAEvolution
-Phylogenetic Estimation
-Genome Assembly
+> Models of DNAEvolution
+> Phylogenetic Estimation
+> Genome Assembly
 	Contig Building (High Coverage –Short Read –Illumina)
 	Scaffolding (Mate Pair, Hi-C)
 	Finishing (Long Read –Oxford NanoPore / PacBio)**Note that this is a tentative list and is subject to change
