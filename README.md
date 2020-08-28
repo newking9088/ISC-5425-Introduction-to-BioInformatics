@@ -1,0 +1,2 @@
+# ISC-5425-Introduction-to-BioInformatics
+Catalog  Description: This course on bioinformatics provides a quantitative framework for understanding how the genomic sequence and its variations affect the phenotype. The course is designed for biologists and biochemists seeking to improve quantitative data interpretation skills, and for mathematicians, computer scientists and other quantitative scientists seeking to learn more about computational biology. Laboratory exercises are designed to reinforce the classroom learning.
