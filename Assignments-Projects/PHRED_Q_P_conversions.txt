@@ -1,0 +1,17 @@
+2) Convert the following fastq quality scores into phred scores and error probabilities. Assume Phred+33 format:
+	Qual		PHRED		prob
+        !==33		__0__		__1.00000__
+	A==65		__32___	__0.00063____
+	4==52		__19___         __0.01259___
+
+3) Convert the following error probability into phred scores and error probabilities. Assume Phred+33 format:
+	Prob		PHRED		        Qual
+	0.0001		__73____		__I___
+	0.001		__63___		__?___
+	0.01		__53___		__5___
+	
+	
+	
+	
+Quality score or Q are always represented in the ASCII form (here we use phred +33 score). THe PHRED score and P (the probability of base call error) are related as: PHRED = -10log(P). THe Quality score is PHRED + 33.
+
