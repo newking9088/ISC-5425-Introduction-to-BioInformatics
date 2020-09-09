@@ -1,0 +1,11 @@
+#########Reference######################################################################################
+ATATACATAGGAGATGCCGTCGTAAGCGCGTATTCGGCTAGCTAGCTGCGCGTTAGCTGAGCGGCGGCGGCGTTTTTGCCTAGCTAATTATATTATATAGCGCGTATCGGCGATTCGATCAGC---TGCTAGCTAGTGTACGCTAGCTAT
+###################################################################################################################################
+@HD VN:1.0 SO:coordinate
+@SQ SN:ref LN:147
+QNAME   FLAG RNAME POS  CIGAR      RNEXT             SEQ                                     QUAL
+Read4/1  --  ref   17   14M          *     CCGTCGTAAGCGCGTATTCGGCTAGCTAGC                      *
+Read4/2  --  ref   33    X           *     TTCGGCTATCTAGCTGCGCGTTAGC                           *
+Read1    --  ref   55   30M3D7M      *     AGCTGAGCGGCGGCGGCGTTTTTGCCTAGC---TTATATT            *
+Read2    --  ref   80   5M3D27M      *    CTAGC---TTATATTATATAGCGCGTATCGGCGAT                  *
+Read3    --  ref   106  18M3I12M     *    ATCGGCGATTCGATCAGCCAGTGCTAGCTAGTG                    *
